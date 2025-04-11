@@ -1,3 +1,3 @@
 # Genzo
-Tebak Anime
-Profile Couple
+• Tebak Anime
+• Profile Couple
