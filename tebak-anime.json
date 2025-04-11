@@ -1,0 +1,84 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "image": "https://files.catbox.moe/lwq1y4.jpg",
+      "answer": "Oshi no Ko"
+    },
+    {
+      "id": 2,
+      "image": "https://files.catbox.moe/8dliwy.jpg",
+      "answer": "Yuru Camp"
+    },
+    {
+      "id": 3,
+      "image": "https://files.catbox.moe/4c0g6c.jpg",
+      "answer": "Bocchi the Rock"
+    },
+    {
+      "id": 4,
+      "image": "https://files.catbox.moe/wrmo4u.jpg",
+      "answer": "Wind Breaker"
+    },
+    {
+      "id": 5,
+      "image": "https://files.catbox.moe/uahk3t.jpg",
+      "answer": "Dungeon Meshi"
+    },
+    {
+      "id": 6,
+      "image": "https://files.catbox.moe/h45rma.png",
+      "answer": "Kaiju no 8"
+    },
+    {
+      "id": 7,
+      "image": "https://files.catbox.moe/qld4dh.jpg",
+      "answer": "Kannagi"
+    },
+    {
+      "id": 8,
+      "image": "https://files.catbox.moe/qcigk2.jpg",
+      "answer": "Shangi-La Frontier",
+      }, 
+    {
+      "id": 9,
+      "image": "https://files.catbox.moe/g4l0wn.jpg",
+      "answer": "Solo Leveling",
+      }, 
+      {
+      "id": 10,
+      "image": "https://files.catbox.moe/mup2x5.jpg",
+      "answer": "Ragna Crimson",
+      },
+      {
+      "id": 11,
+      "image": "https://files.catbox.moe/4gk1f7.png",
+      "answer": "Mashle",
+      },
+      {
+      "id": 12,
+      "image": "https://files.catbox.moe/kjisyh.jpg",
+      "answer": "Isekai Nonbiri Nouka",
+      },
+      {
+      "id": 13,
+      "image": "https://files.catbox.moe/6adv3x.jpg",
+      "answer": "Classroom of the Elite",
+      },
+      {
+      "id": 14,
+      "image": "https://files.catbox.moe/boh0z0.jpg",
+      "answer": "Kusuriya no Hitorigoto",
+      },
+      {
+      "id": 15,
+      "image": "https://files.catbox.moe/zeufc4.jpg",
+      "answer": "Sosou no Frieren",
+      },
+      {
+      "id": 16,
+      "image": "https://files.catbox.moe/zeufc4.jpg",
+      "answer": "Mushoku Tensei",
+      },
+  ]
+}
