@@ -77,13 +77,33 @@
     },
     {
       "id": 16,
-      "image": "https://files.catbox.moe/zeufc4.jpg",
+      "image": "https://files.catbox.moe/1dm2sk.jpg",
       "answer": "Mushoku Tensei"
     },
     {
        "id": 17,
        "image": "https://files.catbox.moe/mtuwwy.jpg",
        "answer": "Tate No Yuusha"
+    },
+    {
+      "id": 18,
+      "image": "https://files.catbox.moe/a4rs5i.jpg",
+      "answer": "World Tigger"
+    },
+    {
+      "id": 19,
+      "image": "https://files.catbox.moe/0bg1dn.jpg",
+      "answer": "Horimiya"
+    },
+    {
+      "id": 20,
+      "image": "https://files.catbox.moe/l514ex.jpg",
+      "answer": "One Piece"
+    },
+    {
+      "id": 21,
+      "image": "https://files.catbox.moe/la131s.jpg",
+      "answer": "Naruto"
     }
   ]
 }
