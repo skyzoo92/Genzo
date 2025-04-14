@@ -1,8 +1,5 @@
 # Genzo
 
-• Tebak Anime  
-• Profile Couple
+Ntah lah, gw buat ini karena gabut 🗿
 
-• Qoutes Bacot
-
-• Qoutes Senja
+Semoga aja berguna untuk nambah" fitur kalian.
