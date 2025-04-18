@@ -1,0 +1,109 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "image": "https://files.catbox.moe/6ndc6k.jpg",
+      "answer": "Playstore"
+    },
+    {
+      "id": 2,
+      "image": "https://files.catbox.moe/3y0qim.jpg",
+      "answer": "Google"
+    },
+    {
+      "id": 3,
+      "image": "https://files.catbox.moe/kx4lz8.jpg",
+      "answer": "Google Drive"
+    },
+    {
+      "id": 4,
+      "image": "https://files.catbox.moe/y4oe5k.jpg",
+      "answer": "Youtube"
+    },
+    {
+      "id": 5,
+      "image": "https://files.catbox.moe/si2qps.jpg",
+      "answer": "Spotify"
+    },
+    {
+      "id": 6,
+      "image": "https://files.catbox.moe/jbw5ez.jpg",
+      "answer": "Resso"
+    },
+    {
+      "id": 7,
+      "image": "https://files.catbox.moe/ty47o3.jpg",
+      "answer": "Tiktok"
+    },
+    {
+      "id": 8,
+      "image": "https://files.catbox.moe/63kth4.jpg",
+      "answer": "Pinterest"
+    },
+    {
+      "id": 9,
+      "image": "https://files.catbox.moe/u5bqw7.jpg",
+      "answer": "Facebook"
+    },
+    {
+      "id": 10,
+      "image": "https://files.catbox.moe/dp2yur.jpg",
+      "answer": "Instagram"
+    },
+    {
+      "id": 11,
+      "image": "https://files.catbox.moe/15hmq6.jpg",
+      "answer": "Twitter"
+    },
+    {
+      "id": 12,
+      "image": "https://files.catbox.moe/xepe7n.jpg",
+      "answer": "Likee"
+    },
+    {
+      "id": 13,
+      "image": "https://files.catbox.moe/7hv3mv.jpg",
+      "answer": "Snack Video"
+    },
+    {
+      "id": 14,
+      "image": "https://files.catbox.moe/zz953e.jpg",
+      "answer": "Whatsapp"
+    },
+    {
+      "id": 15,
+      "image": "https://files.catbox.moe/aknpd5.jpg",
+      "answer": "Telegram"
+    },
+    {
+      "id": 16,
+      "image": "https://files.catbox.moe/jbt03y.jpg",
+      "answer": "Whatsapp Business"
+    },
+    {
+       "id": 17,
+       "image": "https://files.catbox.moe/ac4qqe.jpg",
+       "answer": "Google Chrome"
+    },
+    {
+      "id": 18,
+      "image": "https://files.catbox.moe/qgfu6v.jpg",
+      "answer": "Messager"
+    },
+    {
+      "id": 19,
+      "image": "https://files.catbox.moe/dav617.jpg",
+      "answer": "Michat"
+    },
+    {
+      "id": 20,
+      "image": "https://files.catbox.moe/mah1uc.jpg",
+      "answer": "Discord"
+    },
+    {
+      "id": 21,
+      "image": "https://files.catbox.moe/st64eo.jpg",
+      "answer": "Gmail"
+    }
+  ]
+}
